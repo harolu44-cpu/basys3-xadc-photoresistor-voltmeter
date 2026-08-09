@@ -27,3 +27,6 @@ The design first reads the analog voltage from the photoresistor voltage divider
 
 Equipment: Basys 3, digital multimeter, jumper wires, breadboard, GL5528 photoresistor, 10kΩ and 1kΩ 
 
+How to Run
+- In sourcetree select clone then paste the GitHub repository URL after this choose a local folder and click clone.
+- In the Vivado tcl Console write cd C:/Users/YourName/Documents/GitHub/basys3-xadc-photoresistor-voltmeter then press enter after this write source ./tcl/create_project.tcl and press enter again.
